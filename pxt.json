@@ -1,0 +1,28 @@
+{
+    "name": "Flashing Heart",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "CODO": "github:codomicrobit/pxt-codo#34cd06a090f80a1b659d83d07d7aa1a38447bb28"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "pxt.json",
+        "_history"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
